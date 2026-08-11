@@ -1,0 +1,8 @@
+{
+  "skillId": "io.github.atlassian-twg-cli",
+  "date": "2026-08-11",
+  "source": {
+    "url": "https://github.com/atlassian/twg-cli.git",
+    "path": "skills/*"
+  }
+}
