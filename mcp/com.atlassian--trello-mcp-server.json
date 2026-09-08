@@ -7,7 +7,7 @@
   },
   "selfPublished": true,
   "config": {
-    "type": "http",
+    "type": "streamable-http",
     "url": "https://mcp.trello.com/v1"
   }
 }
