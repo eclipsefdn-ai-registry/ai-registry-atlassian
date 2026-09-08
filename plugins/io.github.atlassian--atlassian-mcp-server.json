@@ -1,0 +1,7 @@
+{
+  "pluginId": "io.github.atlassian/atlassian-mcp-server",
+  "date": "2026-09-08",
+  "source": {
+    "url": "https://github.com/atlassian/atlassian-mcp-server.git"
+  }
+}
